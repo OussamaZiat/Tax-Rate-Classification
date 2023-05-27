@@ -37,6 +37,16 @@ The repository includes two files:
 - ``model.ipynb``: This notebook contains the code for building the model used in the project. It outlines the plan for the file.
 Please refer to the respective notebooks for more details on the data extraction process and model implementation.
 
+#### **Running the Application**
+##### **Data Extraction:**
+
+- The initial step in the process is the construction of the `main_data.csv` file. This is achieved by executing the `extract.ipynb` notebook.
+
+##### **Model Construction:**
+
+- Upon successful completion of the data extraction, you then proceed to run the `model.ipynb` notebook. This action facilitates 
+
+**Remember** to ensure that all *prerequisites* are fulfilled before running these notebooks.
 # PLAN
 
 
