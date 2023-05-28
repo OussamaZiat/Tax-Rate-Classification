@@ -44,7 +44,7 @@ Please refer to the respective notebooks for more details on the data extraction
 
 ##### **Model Construction:**
 
-- Upon successful completion of the data extraction, you then proceed to run the `model.ipynb` notebook. This action facilitates 
+- Upon successful completion of the data extraction, you then proceed to run the `model.ipynb` notebook.
 
 **Remember** to ensure that all *prerequisites* are fulfilled before running these notebooks.
 # PLAN
