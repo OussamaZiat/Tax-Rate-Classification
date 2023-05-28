@@ -53,7 +53,7 @@ Please refer to the respective notebooks for more details on the data extraction
 ## Data Exploration: 
 
 - `Handling Missing values:`
-    - `Are the columns **date**, **parent**, **quantity** columns empty?`
+    - `Are the **date**, **parent**, **quantity** columns empty?`
     - `Is **updatedAt** column a duplicate of the **createdAt**?`
     - `Does the **taxDescription** column  duplicates the information presented in the **TaxRate** column ?`
     - `What is the percentage of missing values in the **description** column?`
